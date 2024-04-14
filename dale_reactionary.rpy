@@ -745,7 +745,7 @@ label mas_wrs_luxxiedrive:
                 "I love you, Esther."
             ])
         else:
-            mayjay_quips.extend([
+            luxxie_quips.extend([
                 "See anything you like at the Luxxie Emporium?",
                 "Luxxie's never short on things to talk about, is she?",
                 "Does Luxxie have an update to share?",
